@@ -7,7 +7,7 @@
     </div>
     <div id="nav">
       <router-link to="/">おすすめ</router-link>
-      <router-link to="/about">ジャンル別</router-link>
+      <router-link to="/search">ジャンル別</router-link>
       <router-link to="/about">このサイトについて</router-link>
       <router-link to="/about">ご提案・お問合せ</router-link>
     </div>
